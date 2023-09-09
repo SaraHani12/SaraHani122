@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 
 <h3 align="center">
   Welcome to Sarah Hani's profile!
-/h3>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
@@ -39,8 +40,7 @@ Here are some ideas to get you started:
 
 ### Connect with Me :
 
-<a href="https://www.linkedin.com/in/sarah-hani-3405a823a" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Gamal-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://t.me/ahmedserag2" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Gamal-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/sarah-hani-3405a823a" target="_blank"><img src="https://img.shields.io/badge/-Sarah%20Hani-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
